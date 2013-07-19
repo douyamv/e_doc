@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="e_doc"
+  id="myeclipse.1382270742459"
+  context-root="/e_doc"
+  j2ee-spec="6.0"
+  archive="e_doc.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

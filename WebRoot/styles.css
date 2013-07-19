@@ -1,0 +1,66 @@
+body{  color:#666;  background:url(src/mainbg.jpg);}  /* 设置背景图片和全网页的字体颜色*/
+#title1{
+	background:#09f;
+	font-size:80px;
+	font-family:"华文彩云";
+	text-align:center;
+	text-color:#000;
+	margin-right:auto;
+	margin-left:auto;
+	height:190px;
+	
+}
+.Topic
+{
+	background:#ddd;
+	margin-left:100px;
+	width:700px;
+	border:1px dashed gray;
+	border-left:3px dashed gray;;
+}
+.latest
+{
+	margin-left:10px;
+	margin-top:10px;
+	width:300px;
+	border:1px dashed gray;	
+}
+.rightUpDiv
+{
+	background:#f00;
+	position:absolute;
+	left:900px;
+	top:600px;
+	width:200px;
+	
+}
+.rightDownDiv
+{
+	background:#0f0;
+	position:absolute;
+	left:900px;
+	top:200px;
+	width:200px;
+	
+}
+.Topic_name
+{
+	background:#F99;
+	font-size:30px;
+	font-family:"微软雅黑";
+
+	position:absolute;
+	left:200px;
+	display:inline;  
+	
+}
+.Topic_id
+{
+	background:#Fbb;
+	font-size:30px;
+	font-family:"微软雅黑";
+	
+	position:absolute;
+	left:100px;
+	 display:inline;  
+	}
